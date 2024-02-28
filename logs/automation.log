@@ -1,0 +1,98 @@
+16:26:58.351 [main] INFO  - The user searches for BookShelves
+16:27:15.925 [main] INFO  - The PopUp is closed
+16:27:19.375 [main] INFO  - The user selects KidsBookShelves from category
+16:27:22.941 [main] INFO  - The user selects the Price Range
+16:27:25.562 [main] INFO  - The user selects Out of Stock option
+16:27:27.975 [main] INFO  - The user selects the Order range
+16:27:52.787 [main] INFO  - The user prints the details of first Three products
+16:27:54.332 [main] INFO  - The user moves to Living sub Menu
+16:28:23.186 [main] INFO  - The user prints the options available in Living menu
+16:29:10.057 [main] INFO  - The user selects the GiftCard option
+16:29:12.302 [main] INFO  - The user scrolls to Birthday Gift card
+16:29:13.832 [main] INFO  - The user chooses the Birthday Gift Card
+16:29:15.167 [main] INFO  - The user selects the Price of the Gift Card
+16:29:16.911 [main] INFO  - The user selects the date of the Gift Card
+16:29:17.814 [main] INFO  - The user selects on the Next option
+16:29:20.004 [main] INFO  - The user enters the details of To's details
+16:29:22.112 [main] INFO  - The user enters the details of From's details
+16:29:25.808 [main] INFO  - The user validates the deatails and clicks on Confirm
+10:40:42.749 [main] INFO  - The user searches for BookShelves
+10:40:45.041 [main] INFO  - The PopUp is closed
+10:40:48.789 [main] INFO  - The user selects KidsBookShelves from category
+10:40:51.735 [main] INFO  - The user selects the Price Range
+10:40:53.105 [main] INFO  - The user selects Out of Stock option
+10:40:54.601 [main] INFO  - The user selects the Order range
+10:41:03.071 [main] INFO  - The user prints the details of first Three products
+10:41:04.252 [main] INFO  - The user moves to Living sub Menu
+10:43:40.413 [main] INFO  - The user searches for BookShelves
+10:43:41.559 [main] INFO  - The PopUp is closed
+10:43:43.045 [main] INFO  - The user selects KidsBookShelves from category
+10:43:45.102 [main] INFO  - The user selects the Price Range
+10:43:46.624 [main] INFO  - The user selects Out of Stock option
+10:43:47.662 [main] INFO  - The user selects the Order range
+10:43:54.934 [main] INFO  - The user prints the details of first Three products
+10:43:55.998 [main] INFO  - The user moves to Living sub Menu
+10:44:05.446 [main] INFO  - The user prints the options available in Living menu
+10:44:23.210 [main] INFO  - The user selects the GiftCard option
+10:44:24.588 [main] INFO  - The user scrolls to Birthday Gift card
+10:44:25.719 [main] INFO  - The user chooses the Birthday Gift Card
+10:44:26.552 [main] INFO  - The user selects the Price of the Gift Card
+10:44:27.996 [main] INFO  - The user selects the date of the Gift Card
+10:44:28.762 [main] INFO  - The user selects on the Next option
+10:44:30.596 [main] INFO  - The user enters the details of To's details
+10:44:32.004 [main] INFO  - The user enters the details of From's details
+10:44:35.587 [main] INFO  - The user validates the deatails and clicks on Confirm
+10:46:27.173 [main] INFO  - The user searches for BookShelves
+10:46:28.772 [main] INFO  - The PopUp is closed
+10:46:30.772 [main] INFO  - The user selects KidsBookShelves from category
+10:46:34.072 [main] INFO  - The user selects the Price Range
+10:46:35.412 [main] INFO  - The user selects Out of Stock option
+10:46:36.645 [main] INFO  - The user selects the Order range
+10:46:45.546 [main] INFO  - The user prints the details of first Three products
+10:46:46.819 [main] INFO  - The user moves to Living sub Menu
+10:46:58.175 [main] INFO  - The user prints the options available in Living menu
+10:47:07.007 [main] INFO  - The user selects the GiftCard option
+10:47:08.465 [main] INFO  - The user scrolls to Birthday Gift card
+10:47:09.525 [main] INFO  - The user chooses the Birthday Gift Card
+10:47:11.491 [main] INFO  - The user selects the Price of the Gift Card
+10:47:13.859 [main] INFO  - The user selects the date of the Gift Card
+10:47:14.812 [main] INFO  - The user selects on the Next option
+10:47:18.282 [main] INFO  - The user enters the details of To's details
+10:47:21.807 [main] INFO  - The user enters the details of From's details
+10:47:25.745 [main] INFO  - The user validates the deatails and clicks on Confirm
+10:54:19.523 [main] INFO  - The user searches for BookShelves
+10:54:20.593 [main] INFO  - The PopUp is closed
+10:54:22.119 [main] INFO  - The user selects KidsBookShelves from category
+10:54:25.280 [main] INFO  - The user selects the Price Range
+10:54:26.737 [main] INFO  - The user selects Out of Stock option
+10:54:28.203 [main] INFO  - The user selects the Order range
+10:54:36.801 [main] INFO  - The user prints the details of first Three products
+10:54:38.187 [main] INFO  - The user moves to Living sub Menu
+10:54:45.053 [main] INFO  - The user prints the options available in Living menu
+10:55:00.416 [main] INFO  - The user selects the GiftCard option
+10:55:01.736 [main] INFO  - The user scrolls to Birthday Gift card
+10:55:03.106 [main] INFO  - The user chooses the Birthday Gift Card
+10:55:04.038 [main] INFO  - The user selects the Price of the Gift Card
+10:55:05.774 [main] INFO  - The user selects the date of the Gift Card
+10:55:06.722 [main] INFO  - The user selects on the Next option
+10:55:08.523 [main] INFO  - The user enters the details of To's details
+10:55:10.894 [main] INFO  - The user enters the details of From's details
+10:55:14.766 [main] INFO  - The user validates the deatails and clicks on Confirm
+11:12:23.987 [main] INFO  - The user searches for BookShelves
+11:12:25.239 [main] INFO  - The PopUp is closed
+11:12:27.099 [main] INFO  - The user selects KidsBookShelves from category
+11:12:31.212 [main] INFO  - The user selects the Price Range
+11:12:32.802 [main] INFO  - The user selects Out of Stock option
+11:12:34.030 [main] INFO  - The user selects the Order range
+11:12:42.628 [main] INFO  - The user prints the details of first Three products
+11:12:44.349 [main] INFO  - The user moves to Living sub Menu
+11:12:54.523 [main] INFO  - The user prints the options available in Living menu
+11:13:03.894 [main] INFO  - The user selects the GiftCard option
+11:13:05.627 [main] INFO  - The user scrolls to Birthday Gift card
+11:13:06.995 [main] INFO  - The user chooses the Birthday Gift Card
+11:13:08.363 [main] INFO  - The user selects the Price of the Gift Card
+11:13:13.149 [main] INFO  - The user selects the date of the Gift Card
+11:13:14.890 [main] INFO  - The user selects on the Next option
+11:13:19.551 [main] INFO  - The user enters the details of To's details
+11:13:26.640 [main] INFO  - The user enters the details of From's details
+11:13:31.109 [main] INFO  - The user validates the deatails and clicks on Confirm
